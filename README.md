@@ -8,7 +8,7 @@ Precise motor velocity control is fundamental in robotics, automated manufacturi
 In mechatronics systems, open-loop motor actuation is insufficient for precise motion. Implementing closed-loop control demonstrates core principles of feedback systems, real-time data logging, digital signal processing via hardware interrupts, and system tuning.
 
 ## Team Members & Roles
-* **[Your Name]** – Firmware Development, PID Controller Implementation, Hardware Integration
+* **Nabih Harb** – Firmware Development, PID Controller Implementation, Hardware Integration
 * **Hussein Haidar** – Data Logging Script, Serial Communication Protocol, Testing & Documentation
 
 ## Tools & Hardware Plan
